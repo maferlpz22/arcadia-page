@@ -1,0 +1,70 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    }
+    .borde {
+      border: 1px darkgoldenrod solid; 
+      text-align: center;
+      height: 50px; 
+    }
+    .slider  {
+    background: url("img/index.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    }
+    #msjinicio{
+      color: whitesmoke;
+    }
+    .academy  {
+    background: url("img/barman.jpg");
+    color: whitesmoke;
+    background-size: cover;
+    background-position: center;
+    }
+    #academia{
+      color: whitesmoke;
+    }
+    .bartender  {
+    background-color: black;
+    color: whitesmoke;
+    background-size: cover;
+    background-position: center;
+    }
+    .msjteamarcadia  {
+      background-color: black;
+      color: whitesmoke;
+      background-size: cover;
+      background-position: center;
+    }
+    .luisatisbar  {
+      background: url("img/luisatisbar.png");
+      color: whitesmoke;
+      background-size: cover;
+      background-position: center;
+      }
+      .maferlopez  {
+        background: url("img/maferlopez.png");
+        color: whitesmoke;
+        background-size: cover;
+        background-position: center;
+        }
+      .scrollteam  {
+        background: url("img/scroll.png");
+        color: whitesmoke;
+        background-size: cover;
+        background-position: center;
+        } 
+    .btn-primary {
+      color: #fff;
+      background-color: #d9ad00;
+      border-color: #fff;
+    }
+    .formulario {
+      background-color: black;
+      color: #fff;
+      background-size: cover;
+      background-position: center;
+   }
+
+
+
