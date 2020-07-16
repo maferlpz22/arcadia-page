@@ -48,6 +48,18 @@ body {
         background-size: cover;
         background-position: center;
         }
+        .gean  {
+          background: url("img/geanfranco.png");
+          color: whitesmoke;
+          background-size: cover;
+          background-position: center;
+          }
+          .mariale  {
+            background: url("img/mariale.png");
+            color: whitesmoke;
+            background-size: cover;
+            background-position: center;
+            }
       .scrollteam  {
         background: url("img/scroll.png");
         color: whitesmoke;
